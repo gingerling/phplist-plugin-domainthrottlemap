@@ -406,6 +406,33 @@ class domainthrottlemap extends phplistPlugin {
 		case 'amorki.pl':
 		case 'buziaczek.pl':
 		case 'pseudonim.pl':
+		case 'hotmail.fr':
+		case 'hotmail.it':
+		case 'ie9.com':
+		case 'ie10.com':
+		case 'ie11.com':
+		case 'mepn.com':
+		case '1drv.ms':
+		case 'xboxone.co'
+		case 'microsoft.dk':
+		case 'outlook.dk':
+		case 'skype.dk':
+		case 'live.dk':
+		case 'hotmail.dk':
+		case 'microsoft.fr':
+		case 'outlook.fr':
+		case 'skype.fr':
+		case 'live.fr':
+		case 'microsoft.it':
+		case 'outlook.it':
+		case 'skype.it':
+		case 'live.it':
+		case 'microsoft.de':
+		case 'outlook.de':
+		case 'skype.de':
+		case 'live.de':
+		case 'hotmail.de':
+		case 'outlook.com.au':
 			return "Onet.pl"; break;
             
           
