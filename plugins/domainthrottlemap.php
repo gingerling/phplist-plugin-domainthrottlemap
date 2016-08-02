@@ -407,6 +407,13 @@ class domainthrottlemap extends phplistPlugin {
 		case 'buziaczek.pl':
 		case 'pseudonim.pl':
 			return "Onet.pl"; break;
+		case 'ygm.com':
+		case 'love.com':
+		case 'wow.com':
+		case 'games.com':
+		case 'aol.com':
+		case 'aol.co.uk'
+			return "aol.com";break;
             
           
           /* 
